@@ -1,7 +1,7 @@
-Kính gửi Thầy/Cô,
+Kính gửi Anh/Chị, 
 
-Nguyễn Ngọc Hậu - 52000659
-Vũ Trường GIang - 52000656
+Em tên Nguyễn Ngọc Hậu
+
 
 Hướng dẫn cách chạy Source
 
@@ -17,10 +17,10 @@ Trường hợp phát sinh:
 - Nếu Folder Source code không chạy cũng như không import được các thư viện cần thiết cho project, thì em mong Thầy/Cô ấn vào driver của em để tải Folder có sẵn các thư viện để chạy app
 link driver: "https://drive.google.com/drive/folders/1SLreTKqM6Saw4qeCslWHlbt4uBrK8fN8?usp=sharing"
 
-- Nếu api trong file api.js của chat GPT bị lỗi, Thầy/Cô có thể tạo và đổi api khác từ link: "https://platform.openai.com/api-keys"
+- Nếu api trong file api.js của chat GPT bị lỗi, Anh/Chị có thể tạo và đổi api khác từ link: "https://platform.openai.com/api-keys"
 
 - Đây là 2 api key dự phòng nếu cách trên không được ạ:
 
 
 
-Cảm ơn Thầy/Cô đã đọc và chúc quý thầy/Cô trải nghiệm sản phẩm của tụi em tốt ạ.
+Cảm ơn Anh/Chị đã đọc và chúc quý Anh/Chị trải nghiệm sản phẩm của tụi em tốt ạ.
